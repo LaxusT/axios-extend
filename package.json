@@ -1,0 +1,24 @@
+{
+  "name": "axios-extend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaxusT/axios-extend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaxusT/axios-extend/issues"
+  },
+  "homepage": "https://github.com/LaxusT/axios-extend#readme",
+  "devDependencies": {
+    "axios": "^0.17.1",
+    "koa": "^2.4.1",
+    "koa-router": "^7.3.0"
+  }
+}
